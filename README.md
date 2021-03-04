@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Performed analysis on Kickstarter campaigns to uncover fundraising trends for theater and plays in the US and Great Britain.
 
-Louise crowdfunding budget of $10,000 what makes a caompaign successful and how can we set up Louise for success. We want to help her set up a campaign that is simlar to other successful campaigns. 
+Louise crowdfunding budget of $10,000 what makes a campaign successful and how can we set up Louise for success. We want to help her set up a campaign that is simlar to other successful campaigns. 
 
 ## Summary
 Theater campaigns make up the largest category of campaigns on Kickstarter and have a high success rate in both the US and Great Britain. Success rates in the US are 57.5%, in Great Britain are 71.8% , and combined are 61.6%. Looking further into the Theater category we found plays to be the the largest subcategory with 985 campaigns (US:671 , GB:314) with 650 successful fundarising efforts (US:412 GB:238).
